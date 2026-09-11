@@ -3,10 +3,10 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
-    profile: "https://satna.ing",
+    title: "3AM News Station | Fictional News Site from Bloodshot (2020)",
+    description: "3amnewsstation.com is a fictional news site from the movie Bloodshot (2020). Explore the lore behind the Manhattan bombing and the hunt for Martin Axe.",
+    author: "3AM News Station",
+    profile: "https://3amnewsstation.com",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Bangkok",
